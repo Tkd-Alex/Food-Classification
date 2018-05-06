@@ -6,7 +6,7 @@ This _Social Media Management_ project allow to classificate picture between foo
 3. To build aur dictionary of visual word, we have cluster all local feature with KMeans=500 (scikitlearn).
 4. Finally to classificate the picture we have used KNN.
 
-![markdown-preview](doc/Schermata da 2017-03-13 09-33-58.png)
+![markdown-preview](doc/Schermata%20da%202017-03-13%2009-33-58.png)
 
 ## Bag of visual word
 >In computer vision, the bag-of-words model (BoW model) can be applied to image classification, by treating image features as words. In document classification, a bag of words is a sparse vector of occurrence counts of words; that is, a sparse histogram over the vocabulary. In computer vision, a bag of visual words is a vector of occurrence counts of a vocabulary of local image features.
